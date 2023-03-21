@@ -1,0 +1,1 @@
+python webui.py  --precision full --no-half --use-cpu SD GFPGAN BSRGAN ESRGAN SCUNet CodeFormer
